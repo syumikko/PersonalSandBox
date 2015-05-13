@@ -1,0 +1,13 @@
+#gNavi {
+  margin:10px 0;
+  padding:0;
+  width:490px;
+  height:30px;
+  overflow:hidden;
+}
+
+#gNavi li {
+  list-style:none;
+  width:98px;
+  float:left;
+}
