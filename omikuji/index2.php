@@ -1,3 +1,10 @@
+<?php
+
+$unsei = "大吉";
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -6,7 +13,7 @@
 </head>
 <body>
     <h1>おみくじ</h1>
-    <p>今日の運勢 「」！</p>
+    <p>今日の運勢 「<?php echo "$unsei"; ?>」！</p>
     <p><a href="">もう一度</a></p>
 </body>
 </html>
