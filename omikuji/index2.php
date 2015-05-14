@@ -14,7 +14,7 @@ $piyo = $omikuji[0];
 </head>
 <body>
     <h1>おみくじ</h1>
-    <p>今日の運勢 「<?php echo "$piyo"; ?>」！</p>
+    <p>今日の運勢 「<?php echo $piyo; ?>」！</p>
     <p><a href="">もう一度</a></p>
 </body>
 </html>
