@@ -2,7 +2,7 @@
 
 $omikuji = ['大吉', '吉', '凶'];
 
-$unsei = $omikuji[0];
+$unsei = array_rand($omikuji);
 
 ?>
 
